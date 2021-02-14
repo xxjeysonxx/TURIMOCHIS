@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820463038503",
+    "project_id": "mapas-edgar-2479c",
+    "storage_bucket": "mapas-edgar-2479c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820463038503:android:1f0257f95e6d90d7d49e02",
+        "android_client_info": {
+          "package_name": "com.nikosenpai.mapasedgar10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820463038503-ocjovaudss74ohi7s4garhikjijbdgh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-C3o-facc2ij4aZsFjURLCW3TGK_Sc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820463038503-ocjovaudss74ohi7s4garhikjijbdgh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
